@@ -6,6 +6,7 @@
   * tkinter
   * matplotlib
   * arabic_reshaper
-  * bidi
+  * python-bidi
   * bs4
+  * pandas
 * run from cmd : python GChat_v3.py
